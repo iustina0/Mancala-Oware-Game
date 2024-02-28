@@ -17,5 +17,5 @@ ___________________________________________________________________________
 
 ### Usage:
 1. Install the tkinter library: `pip install tk`
-2. Run the application: `python mancala_oware_game/main.py`
+2. Run the application: `python main.py`
   
